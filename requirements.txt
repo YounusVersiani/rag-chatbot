@@ -3,11 +3,7 @@ python-dotenv
 langchain
 langchain-openai
 langchain-community
-langchain-core
-langchain-chains
 chromadb
 pypdf
 openai
 tiktoken
-pydantic
-pydantic-settings
